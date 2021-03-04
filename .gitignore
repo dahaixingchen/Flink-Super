@@ -10,6 +10,14 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 
+### 清除git缓存 ###
+# git rm -r --cached .
+### 添加文件到git中 ###
+# git add .
+### 提交文件到git ###
+# git commit -m 'xxxxx'
+
+
 ### STS ###
 .check*
 .apt_generated
